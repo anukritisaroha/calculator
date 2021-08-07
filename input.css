@@ -1,0 +1,9 @@
+.input-box{
+    height: 4rem;
+    width: 10rem;
+    background-color:blue;
+    font-size: 20px;
+    margin-top: 7rem;
+    margin-left: 40rem;
+    color: white;
+}
